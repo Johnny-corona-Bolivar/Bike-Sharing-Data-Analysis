@@ -185,10 +185,4 @@ The dashboard includes:
 
 The visualizations provide a comprehensive overview of customer behavior and support data-driven business recommendations.
 
-> **Dashboard Preview**
-
-<p align="center">
-<img src="images/dashboard.png" width="900">
-</p>
-
 ---
